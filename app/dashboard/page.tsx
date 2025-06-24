@@ -143,8 +143,8 @@ export default function Dashboard() {
                         <MapPin className="w-6 h-6 text-blue-600" />
                       </div>
                       <div>
-                        <h3 className="font-semibold">Santa Monica Beach Cleanup</h3>
-                        <p className="text-sm text-gray-600">Dec 28, 2024 • 9:00 AM</p>
+                        <h3 className="font-semibold">Juhu Beach Cleanup</h3>
+                        <p className="text-sm text-gray-600">June 28, 2025 • 9:00 AM</p>
                         <div className="flex items-center space-x-2 mt-1">
                           <Badge variant="secondary">45 volunteers</Badge>
                           <Badge variant="outline">Equipment ready</Badge>
@@ -166,8 +166,8 @@ export default function Dashboard() {
                         <MapPin className="w-6 h-6 text-teal-600" />
                       </div>
                       <div>
-                        <h3 className="font-semibold">Malibu Coastal Cleanup</h3>
-                        <p className="text-sm text-gray-600">Jan 5, 2025 • 8:00 AM</p>
+                        <h3 className="font-semibold">Versova Beach cleanup</h3>
+                        <p className="text-sm text-gray-600">July 5, 2025 • 8:00 AM</p>
                         <div className="flex items-center space-x-2 mt-1">
                           <Badge variant="secondary">23 volunteers</Badge>
                           <Badge variant="destructive">Low stock alert</Badge>
@@ -297,8 +297,8 @@ export default function Dashboard() {
                         <MapPin className="w-6 h-6 text-blue-600" />
                       </div>
                       <div>
-                        <h3 className="font-semibold">Santa Monica Beach Cleanup</h3>
-                        <p className="text-sm text-gray-600">Dec 28, 2024 • 9:00 AM</p>
+                        <h3 className="font-semibold">Juhu Beach Cleanup</h3>
+                        <p className="text-sm text-gray-600">June 28, 2025 • 9:00 AM</p>
                         <div className="flex items-center space-x-2 mt-1">
                           <Badge variant="secondary">+100 Wave Points</Badge>
                           <Badge variant="outline">2x multiplier</Badge>
@@ -314,8 +314,8 @@ export default function Dashboard() {
                         <MapPin className="w-6 h-6 text-teal-600" />
                       </div>
                       <div>
-                        <h3 className="font-semibold">Malibu Coastal Cleanup</h3>
-                        <p className="text-sm text-gray-600">Jan 5, 2025 • 8:00 AM</p>
+                        <h3 className="font-semibold">Versova Beach Cleanup</h3>
+                        <p className="text-sm text-gray-600">July 5, 2025 • 8:00 AM</p>
                         <div className="flex items-center space-x-2 mt-1">
                           <Badge variant="secondary">+100 Wave Points</Badge>
                           <Badge variant="outline">2x multiplier</Badge>

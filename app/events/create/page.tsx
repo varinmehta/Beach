@@ -63,7 +63,7 @@ export default function CreateEvent() {
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <Label htmlFor="event-name">Event Name</Label>
-                    <Input id="event-name" placeholder="e.g., Santa Monica Beach Cleanup" />
+                    <Input id="event-name" placeholder="e.g., Juhu Beach Cleanup" />
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="event-type">Event Type</Label>
@@ -131,17 +131,17 @@ export default function CreateEvent() {
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <Label htmlFor="beach-name">Beach/Location Name</Label>
-                    <Input id="beach-name" placeholder="e.g., Santa Monica State Beach" />
+                    <Input id="beach-name" placeholder="e.g., Juhu Beach" />
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="meeting-point">Meeting Point</Label>
-                    <Input id="meeting-point" placeholder="e.g., Pier parking lot, Section A" />
+                    <Input id="meeting-point" placeholder="e.g.,Parking lot, Section A" />
                   </div>
                 </div>
 
                 <div className="space-y-2">
                   <Label htmlFor="address">Full Address</Label>
-                  <Input id="address" placeholder="Street address, city, state, zip code" />
+                  <Input id="address" placeholder="Street address, city, state, pin code" />
                 </div>
 
                 <div className="grid md:grid-cols-2 gap-6">
