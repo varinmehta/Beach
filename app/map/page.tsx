@@ -23,6 +23,7 @@ export default function ImpactMap() {
       lastCleaned: "2024-12-20",
       pollutionLevel: "medium",
       volunteers: 340,
+      
     },
     {
       id: 1.6,
